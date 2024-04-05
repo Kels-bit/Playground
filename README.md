@@ -1,2 +1,2 @@
 # Playground
-Documentation of my learning journey.
+Collection of all my coding projects. (Comming Soon)
