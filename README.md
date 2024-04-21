@@ -1,2 +1,2 @@
 # Playground
-Collection of all my coding projects. (Comming Soon)
+Collection of all my coding projects. (Coming Soon)
